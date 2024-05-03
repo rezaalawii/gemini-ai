@@ -1,6 +1,3 @@
-"""
-A sample Hello World server.
-"""
 import os
 
 from flask import Flask, render_template, request
